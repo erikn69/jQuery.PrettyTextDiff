@@ -1,5 +1,5 @@
 ###
-@preserve jQuery.PrettyTextDiff 1.0.4
+@preserve jQuery.PrettyTextDiff 1.0.5
 See https://github.com/arnab/jQuery.PrettyTextDiff/
 ###
 
